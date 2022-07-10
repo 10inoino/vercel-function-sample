@@ -1,0 +1,15 @@
+{
+	"name": "vercel-function-sample",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "vercel-function",
+	"workspaceFolder": "/workspaces/vercel-function",
+	"settings": {},
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"yzhang.markdown-all-in-one",
+		"eamodio.gitlens",
+		"wayou.vscode-todo-highlightx"
+	]
+//   "postStartCommand": "yarn install"
+}
